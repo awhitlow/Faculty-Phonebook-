@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493415862 source:c:\users\a\documents\c++\quiz8\main.cpp
+	<iostream>
+	<fstream>
+
